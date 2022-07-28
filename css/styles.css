@@ -6,6 +6,50 @@ padding: 0;
 font-family: 'Poppins', sans-serif;
 }
 
-.bg-primary{
-    background-color: orange;
+.edu-bg-primary{
+    background-color:deepskyblue;
+}
+
+.edu-btn{
+    background-color: deepskyblue;
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 2px;
+    border-radius: 30px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 15px;
+    margin-left:10px ;
+    transition: box-shadow 0.15s ;
+}
+
+.edu-btn:hover{
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+
+}
+
+#outline-edu-btn{
+    color:  deepskyblue;
+    border: 1px solid  deepskyblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 2px;
+    border-radius: 30px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 15px;
+    margin-left:10px ;
+    transition: box-shadow 0.15s ;
+
+}
+
+.price-primary{
+    color:  deepskyblue;
+    font-weight: 600;
 }
