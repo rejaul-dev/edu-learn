@@ -53,3 +53,9 @@ font-family: 'Poppins', sans-serif;
     color:  deepskyblue;
     font-weight: 600;
 }
+
+.fa-brands{
+    color: white;
+    font-size: 22px;
+    margin-right: 30px;
+}
